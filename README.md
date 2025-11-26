@@ -87,6 +87,11 @@ bash infer.sh
 bash my_infer.sh
 ```
 
+### 3. **Gradio APP**
+
+```bash
+python gradio_app.py
+```
 ---
 
 ## Benchmark Datasets 📚
@@ -116,7 +121,7 @@ We provide a **graded difficulty benchmark**, derived from 100+ multi-track stud
 
 ## Development Roadmap & TODO 🗺️
 - [x] our stem-separator inference CLI & model ckpt
-- [ ] develop gradio app for YingMusic-SVC
+- [x] develop gradio app for YingMusic-SVC
 - [ ] benchmark one-click eval script
 
 ---
