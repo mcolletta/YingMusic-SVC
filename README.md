@@ -47,7 +47,9 @@ Experiments on a graded multi-track benchmark show that YingMusic-SVC achieves c
 - **2025-11-25**: Released technical report
 - **2025-11-25**: Initial YingMusic-SVC inference CLI  
 - **2025-11-25**: Released model checkpoint  
-- **2025-11-25**: Release multi-track benchmark  
+- **2025-11-25**: Released multi-track benchmark
+- **2025-11-26**: Released our accompany separator inference CLI and model ckpt
+- **2025-11-26**: Released gradio app for easy try    
 
 ---
 
