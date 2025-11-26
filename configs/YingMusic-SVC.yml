@@ -21,11 +21,11 @@ model_params:
 
   vocoder:
     type: "bigvgan"
-    name: "./checkpoints/bigvgan"
+    name: "nvidia/bigvgan_v2_44khz_128band_512x"
 
   speech_tokenizer:
     type: "whisper"
-    name: './checkpoints/whisper_small'
+    name: 'openai/whisper-small'
 
   style_encoder:
     dim: 192
