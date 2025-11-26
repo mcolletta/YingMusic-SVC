@@ -118,7 +118,7 @@ We provide a **graded difficulty benchmark**, derived from 100+ multi-track stud
 
 | Model              | Description                     | Link |
 |--------------------|--------------------------------|------|
-| **YingMusic-Full** | RL-enhanced final model         | [![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-YingMusic--Full-yellow)](https://huggingface.co/GiantAILab/YingMusic-SVC/blob/main/YingMusic-SVC-full.pt) |
+| **YingMusic-SVC-full** | RL-enhanced final model         | [![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-YingMusic--SVC--Full-yellow)](https://huggingface.co/GiantAILab/YingMusic-SVC/blob/main/YingMusic-SVC-full.pt) |
 | **our BR separator** | Our accompany separation model | [![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-BR--separator-yellow)](https://huggingface.co/GiantAILab/YingMusic-SVC/blob/main/bs_roformer.ckpt) |
 
 
