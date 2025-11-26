@@ -6,6 +6,8 @@
 
 [![Paper](https://img.shields.io/badge/Paper-YingMusic--SVC-blue)](tech_report/YingMusic-SVC_tech_report.pdf)
 [![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-YingMusic--SVC-yellow)](https://huggingface.co/GiantAILab/YingMusic-SVC)
+[![ModelScope](https://img.shields.io/badge/🔮%20ModelScope-YingMusic--SVC-purple)](https://www.modelscope.cn/models/giantailab/YingMusic-SVC/)
+
 
 [//]: # ([![Hugging Face]&#40;https://img.shields.io/badge/Demo-YingMusic--SVC-green&#41;]&#40;&#41;)
 
@@ -100,7 +102,8 @@ python gradio_app.py
 
 We provide a **graded difficulty benchmark**, derived from 100+ multi-track studio songs:
 
-[📥 Download](https://huggingface.co/datasets/GiantAILab/YingMusic-SVC_Difficulty-Graded_Benchmark)
+[🤗 Download](https://huggingface.co/datasets/GiantAILab/YingMusic-SVC_Difficulty-Graded_Benchmark)
+[🔮 Download](https://www.modelscope.cn/datasets/giantailab/YingMusic-SVC_Difficulty-Graded_Benchmark)
 
 | Level | Description |
 |-------|-------------|
