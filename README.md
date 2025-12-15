@@ -146,6 +146,13 @@ This project is built upon:
 
 [//]: # ()
 [//]: # ()
+
+
+## Star 🌟 History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GiantAILab/YingMusic-SVC&type=date&legend=top-left)](https://www.star-history.com/#GiantAILab/YingMusic-SVC&type=date&legend=top-left)
+
+
 ## Citation 🧾
 
 
